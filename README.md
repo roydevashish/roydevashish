@@ -27,3 +27,8 @@ Jamshedpur, JH | \+91-7488135818 | [LinkedIn](http://linkedin.com/in/roydevashis
 - Built scalable **AWS** infrastructure utilizing **S3 Bucket** for video storage and **ECR/ECS** with **Docker containers** to automate and scale video publishing workflows to **YouTube**, integrating **YouTube Data API** and **Google OAuth API** for secure, automated video uploads and authentication.
 - Integrated **secure user authentication**, **role-based access**, **project management**, and real-time video review features to streamline editing collaboration.
 - **Reduced manual uploads/downloads by 40%**, significantly enhancing team efficiency and simplifying the video publishing process.
+
+# ACHIEVEMENTS
+- Solved 200+ DSA questions on Leetcode.
+- Qualified GATE 2024\.
+- Qualified Bihar STET 2024\.
