@@ -32,3 +32,14 @@ Jamshedpur, JH | \+91-7488135818 | [LinkedIn](http://linkedin.com/in/roydevashis
 - Solved 200+ DSA questions on Leetcode.
 - Qualified GATE 2024\.
 - Qualified Bihar STET 2024\.
+
+# EDUCATION
+## Master of Technology
+**Information Systems Security Engineering**  
+**National Institute of Technology, Jamshedpur**									    (2024 \- 2026)  
+CGPA: 7.87
+
+## Bachelor of Technology
+**Computer Science and Engineering**  
+**Bengal College of Engineering and Technology**									    (2017 \- 2021)  
+CGPA/DGPA: 8.62
